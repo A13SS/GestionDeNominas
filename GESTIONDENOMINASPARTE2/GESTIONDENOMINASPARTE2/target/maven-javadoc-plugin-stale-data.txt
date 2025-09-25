@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/usuario_/Desktop/GESTIONDENOMINAS/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/usuario_/Desktop/GESTIONDENOMINAS/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'GESTIONDENOMINAS 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'GESTIONDENOMINAS 1.0-SNAPSHOT API'
+com.mycompany.gestiondenominas
+com.mycompany.gestiondenominas.laboral
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\src\main\java = 1758186540829
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\allclasses-index.html = 1758194008420
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\allpackages-index.html = 1758194008424
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\element-list = 1758194008296
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\help-doc.html = 1758194008469
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\index-all.html = 1758194008458
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\index.html = 1758194008399
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\member-search-index.js = 1758194008436
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\module-search-index.js = 1758194008427
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\overview-summary.html = 1758194008465
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\overview-tree.html = 1758194008391
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\package-search-index.js = 1758194008430
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\search.html = 1758194008462
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\serialized-form.html = 1758194008338
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\tag-search-index.js = 1758194008438
+C:\Users\usuario_\Desktop\GESTIONDENOMINAS\target\reports\apidocs\type-search-index.js = 1758194008433
