@@ -1,0 +1,5 @@
+com\mycompany\gestiondenominas\laboral\DatosNoCorrectosException.class
+com\mycompany\gestiondenominas\laboral\Nomina.class
+com\mycompany\gestiondenominas\laboral\Persona.class
+com\mycompany\gestiondenominas\laboral\Empleado.class
+com\mycompany\gestiondenominas\CalculaNominasFusion.class
